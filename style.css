@@ -11,25 +11,25 @@ body{
 }
 
 #lower-case{
-    background-color: #d43535;
+    background-color: #ec6c6c;
     border-radius: 1.5rem;
     font-size: 2rem;
 }
 
 #upper-case{
-    background-color: #d43535;
+    background-color: #ec6c6c;
     border-radius: 1.5rem;
     font-size: 2rem;
 }
 
 #proper-case{
-   background-color: #d43535;
+   background-color: #ec6c6c;
     border-radius: 1.5rem;
     font-size: 2rem;
 }
 
 #sentence-case{
-    background-color: #d43535;
+    background-color: #ec6c6c;
     border-radius: 1.5rem;
     font-size: 2rem;
 }
